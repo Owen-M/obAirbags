@@ -15,7 +15,7 @@ Join the Mirror Park Studios Discord [here](https://discord.gg/FAJxYxt8SH).
 * Screen effect and sound effect on collision
 
 ## Source Code
-lease ensure you follow the license in **"LICENSE.md"**.
+Please ensure you follow the license in **"LICENSE.md"**.
 
 ## Feedback
 We appreciate feedback, bugs and suggestions related to **obAirbags** and future plugins. We hope you enjoy using the resource and look forward to hearing from people!
